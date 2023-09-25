@@ -10,7 +10,7 @@
 | 21/1031708  |  Geovane Freitas |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este repositório contém a resolução de alguns exercícios do [LeetCode](https://leetcode.com/) relacionados a Grafos, contemplando os algoritmos de BFS, DFS e outros.
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
