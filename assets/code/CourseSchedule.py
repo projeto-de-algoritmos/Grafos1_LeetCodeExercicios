@@ -1,3 +1,5 @@
+from collections import deque, defaultdict
+
 class Solution(object):
     def canFinish(self, numCourses, prerequisites):
         """
