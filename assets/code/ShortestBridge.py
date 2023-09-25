@@ -43,9 +43,11 @@ class Solution:
                     dfs(l, c)
                     return bfs()
 
-
 exemplo1 = Solution()
-print(f'Primeiro exemplo: {exemplo1.shortestBridge([[1,1,1,1,1],[1,0,0,0,1],[1,0,1,0,1],[1,0,0,0,1],[1,1,1,1,1]])}')
+print(f'Primeiro exemplo\n[0,1],[1,0]]: {exemplo1.shortestBridge([[0,1],[1,0]])}\n')
 
 exemplo2 = Solution()
-print(f'O segundo caso de teste: {exemplo1.shortestBridge([[0,1,0],[0,0,0],[0,0,1]])}')
+print(f'Teste 2\n[0,1,0],[0,0,0],[0,0,1]: {exemplo2.shortestBridge([[0,1,0],[0,0,0],[0,0,1]])}\n')
+
+exemplo3 = Solution()
+print(f'Terceiro exemplo\n[1,1,1,1,1],[1,0,0,0,1],[1,0,1,0,1],[1,0,0,0,1],[1,1,1,1,1]: {exemplo3.shortestBridge([[1,1,1,1,1],[1,0,0,0,1],[1,0,1,0,1],[1,0,0,0,1],[1,1,1,1,1]])}')
