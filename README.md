@@ -30,8 +30,8 @@ Link: [Course Schedule](https://leetcode.com/problems/course-schedule/)
 ![](assets/img/exec2.png)
 
 ## Exercicio 3 - 
-Dificuldade:  <br>
-Link: []()
+Dificuldade: Médio <br>
+Link: [Open the Lock](https://leetcode.com/problems/open-the-lock/)
 
 ![](assets/img/exec3.png)
 
