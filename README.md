@@ -29,6 +29,18 @@ Link: [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 ![](assets/img/exec2.png)
 
+## Exercicio 3 - 
+Dificuldade:  <br>
+Link: []()
+
+![](assets/img/exec3.png)
+
+## Exercicio 4 - Word Ladder
+Dificuldade: Difícil <br>
+Link: [Word Ladder](https://leetcode.com/problems/word-ladder/)
+
+![](assets/img/exec4.png)
+
 ## Instalação 
 **Linguagem**: Python<br>
 
