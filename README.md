@@ -12,20 +12,28 @@
 ## Sobre 
 Este repositório contém a resolução de alguns exercícios do [LeetCode](https://leetcode.com/) relacionados a Grafos, contemplando os algoritmos de BFS, DFS e outros.
 
+## [Link da Apresentação]()
+
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+## Exercicio 1 - Shortest Bridge
+
+Dificuldade: Médio <br>
+Link: [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
+
+![](assets/img/exec1.png)
+
+## Exercicio 2 - Course Schedule
+Dificuldade: Médio <br>
+Link: [Course Schedule](https://leetcode.com/problems/course-schedule/)
+
+![](assets/img/exec2.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python<br>
 
+Caso queira testar localmente é necessário ter o python instalado
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para verificar o funcionamento basta abrir o link do exercicio e copiar o código referente a questão, e logo após realizar o envio. Caso queira verificar localmente, é necessário adicionar a chamada da função principal com seus devidos paramêtros. para rodar basta utilizar o comando:
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+`python3 NomeDoArquivo.py`
