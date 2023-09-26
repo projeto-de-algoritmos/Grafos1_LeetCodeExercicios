@@ -21,6 +21,8 @@ Este repositório contém a resolução de alguns exercícios do [LeetCode](http
 Dificuldade: Médio <br>
 Link: [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 
+O exercicio acima usa dois algoritmos aprendidos em sala de aula: BFS para percorrer a matriz e achar o menor caminho (ponte) entre "ilhas" e DFS para saber o tamanho da "ilha".
+
 ![](assets/img/exec1.png)
 
 ## Exercicio 2 - Course Schedule
@@ -34,6 +36,8 @@ Este exercício utiliza de uma lista de ajacências para verificar se há ou nã
 ## Exercicio 3 - 
 Dificuldade: Médio <br>
 Link: [Open the Lock](https://leetcode.com/problems/open-the-lock/)
+
+Este exemplo usa BFS para achar a menor quantidade de combinações que devem ser colocadas para chegar no valor passado. ALém de excluir as opções já exploradas.
 
 ![](assets/img/exec3.png)
 
