@@ -29,6 +29,8 @@ Link: [Course Schedule](https://leetcode.com/problems/course-schedule/)
 
 ![](assets/img/exec2.png)
 
+Este exercício utiliza de uma lista de ajacências para verificar se há ou não ciclo, ou seja, se é ou não um DAG. 
+
 ## Exercicio 3 - 
 Dificuldade: Médio <br>
 Link: [Open the Lock](https://leetcode.com/problems/open-the-lock/)
@@ -38,6 +40,8 @@ Link: [Open the Lock](https://leetcode.com/problems/open-the-lock/)
 ## Exercicio 4 - Word Ladder
 Dificuldade: Difícil <br>
 Link: [Word Ladder](https://leetcode.com/problems/word-ladder/)
+
+Este exercício se baseia no uso de uma BFS para descobrir se existem caminhos entre duas palavras e, se sim, informar o menor numero de "passos" entre as palavras.
 
 ![](assets/img/exec4.png)
 
