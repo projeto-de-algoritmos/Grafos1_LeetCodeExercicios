@@ -21,7 +21,7 @@ Este repositório contém a resolução de alguns exercícios do [LeetCode](http
 Dificuldade: Médio <br>
 Link: [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)
 
-O exercicio acima usa dois algoritmos aprendidos em sala de aula: BFS para percorrer a matriz e achar o menor caminho (ponte) entre "ilhas" e DFS para saber o tamanho da "ilha".
+O exercicio abaixo usa dois algoritmos aprendidos em sala de aula: BFS para percorrer a matriz e achar o menor caminho (ponte) entre "ilhas" e DFS para saber o tamanho da "ilha".
 
 ![](assets/img/exec1.png)
 
