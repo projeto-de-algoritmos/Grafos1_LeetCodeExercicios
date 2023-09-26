@@ -12,7 +12,7 @@
 ## Sobre 
 Este repositório contém a resolução de alguns exercícios do [LeetCode](https://leetcode.com/) relacionados a Grafos, contemplando os algoritmos de BFS, DFS e outros.
 
-## [Link da Apresentação]()
+## [Link da Apresentação](https://youtu.be/eGCR8oSkGRw)
 
 ## Screenshots
 
