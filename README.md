@@ -14,6 +14,10 @@ Este repositório contém a resolução de alguns exercícios do [LeetCode](http
 
 ## [Link da Apresentação](https://youtu.be/eGCR8oSkGRw)
 
+
+https://github.com/projeto-de-algoritmos/Grafos1_LeetCodeExercicios/assets/12275797/e19c3d1a-b0d0-4031-8575-cd653bf4b91b
+
+
 ## Screenshots
 
 ## Exercicio 1 - Shortest Bridge
